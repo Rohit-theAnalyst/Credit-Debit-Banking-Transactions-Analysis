@@ -27,12 +27,42 @@ End-to-end analysis of 100K+ credit and debit banking transactions using Power B
 - Average Transaction Amount
 - Account Activity Ratio
 
-## Power BI 
+## Power BI Dashboard
+### Executive Overview
+- Displays total transactions, credit amount, debit amount, and credit-to-debit ratio.
+- Shows overall financial stability through balanced inflow and outflow.
+- Compares bank-wise net transaction values.
+- Highlights growth rate differences among banks.
+- Visualizes transaction method distribution.
+- Tracks monthly transaction trends.
+![Executive Overview](PBIDashboard1.png)
 
+### Bank Performance Analysis
+- Compares banks based on net transaction contribution.
+- Identifies top-performing and underperforming banks.
+- Highlights Punjab National Bank’s negative net transaction.
+- Shows growth rate comparison across banks.
+- Enables bank-level filtering and drill analysis.
+- Supports strategic benchmarking of bank performance.
+![Bank Performance Analysis](PBIDashboard2.png)
 
+### Transaction Method & User Analysis for each bank
+- Provides detailed analysis for a selected bank.
+- Displays average transaction amount and active customers.
+- Shows account activity ratio.
+- Analyzes branch-wise contribution.
+- Segments customers by balance level.
+- Highlights top contributing customers.
+![Transaction Method & User Analysis](PBIDashboard3.png)
 
-## Tableau
-
+## Tableau Dashboard
+- Displays key KPIs such as total transactions and total amount.
+- Shows branch-wise transaction performance.
+- Analyzes customer balance segmentation.
+- Highlights top customers by transaction value.
+- Tracks monthly transaction trends.
+- Provides interactive filters for dynamic exploration.
+![Tableau Dashboard](TableauDashboard.png)
 
 
 ## SQL Analysis
