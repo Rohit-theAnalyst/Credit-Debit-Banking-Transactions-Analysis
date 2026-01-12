@@ -35,13 +35,11 @@ End-to-end analysis of 100K+ credit and debit banking transactions using Power B
 - Highlights growth rate differences among banks.
 - Visualizes transaction method distribution.
 - Tracks monthly transaction trends.
-![Executive Overview](PBIDashboard1.png)
+![Executive Overview](PBI_Dashboard1.png)
 
 ### Bank Performance Analysis
 - Compares banks based on net transaction contribution.
 - Identifies top-performing and underperforming banks.
-- Highlights Punjab National Bank’s negative net transaction.
-- Shows growth rate comparison across banks.
 - Enables bank-level filtering and drill analysis.
 - Supports strategic benchmarking of bank performance.
 ![Bank Performance Analysis](PBIDashboard2.png)
